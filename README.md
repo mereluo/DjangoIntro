@@ -1,2 +1,2 @@
-# Django_Plotly
+# DjangoIntro
 Connecting Plotly with Django
